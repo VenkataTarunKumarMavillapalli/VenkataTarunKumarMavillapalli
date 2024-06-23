@@ -1,16 +1,69 @@
-## Hi there 👋
+### 👨‍💼 About Me
 
-<!--
-**VenkataTarunKumarMavillapalli/VenkataTarunKumarMavillapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Venkata Tarun Kumar Mavillapali, a 24-year-old enthusiast from Hyderabad, Telangana, India. My journey in education started in Hyderabad, where I completed my primary and high school education.
 
-Here are some ideas to get you started:
+🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+## 🎓 Education
+- **Masters in Data Science** - University of Naples Federico II
+- **Apple Developer Academy** - Naples
+- **International Bachelor's Degree in Computer Science Engineering** - Amity University, Noida
+  - Birkbeck, University of London
+  - Adelphi University, US
+ 
+## 📜 Certifications
+- IBM Machine Learning (Coursera)
+- Google Business Intelligence (Coursera)
+- Google Data Analysis (Coursera)
+- Google Project Management (Coursera)
+- Quality Management Systems - British Standard Institute (BSI)
+- Risk Management Systems - British Standard Institute (BSI)
+
+## 📚 Publications
+- **The Machine Predicted Market** - Published in IEEE. This paper discusses Algorithmic Trading.
+
+
+## 💼 Professional Experience
+I have around 2 years of experience in the Salesforce platform, where I explored various roles:
+- Salesforce Admin
+- Chatbot Configuration
+- Amazon Connect Flows
+- Production Support
+
+## 🧘 Philosophy
+My philosophy in life is simple: I want to make a difference and impact everything I do. My academic background, professional experiences, and continuous pursuit of knowledge reflect my enthusiasm and determination to excel in my field. I believe the academy experiences will not only enhance my professional growth but also enable me to make a valuable impact in shaping the future through data-driven approaches.
+
+## 📈 Current Work
+I am currently working on my thesis-internship and expect to graduate in September 2024.
+
+## 📫 Contact
+Feel free to reach out to me on 
+
+<a href="https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/">
+  <img align="left" alt="Tarun Kumar LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
+</a>
+<a href="https://x.com/mvtkop760">
+  <img align="left" alt="Tarun Kumar Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
+</a>
+<br/>
+
+Thank you for visiting my profile! 🙏
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkataTarunKumarMavillapalli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VenkataTarunKumarMavillapalli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/VenkataTarunKumarMavillapalli/count.svg?"  />
+</div>
+
+###
