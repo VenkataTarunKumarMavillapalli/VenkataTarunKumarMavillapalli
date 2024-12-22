@@ -11,7 +11,7 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 ## 🎓 Education
 - **Masters in Data Science** - University of Naples Federico II
-- **Apple Developer Academy** - Naples
+- **Apple Developer Academy** - Europe
 - **International Bachelor's Degree in Computer Science Engineering** - Amity University, Noida
   - Birkbeck, University of London
   - Adelphi University, US
@@ -34,11 +34,9 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 -> Data Officer(Trainee) - European Food Safety Authority(Current)
 - Data Management and Analysis Team of Integrated Data Unit.
 
-->Apple Devloper Academy
-
 ->Infotainment Intern - Italdesign
 
--> I have 1.5 years of experience in the Salesforce platform, where I explored various roles:
+-> I have 1.5 years of experience in the Salesforce platform in Neuraflash(Salesforce Partner Company), where I explored various tasks:
 - Salesforce Admin
 - Chatbot Configuration
 - Amazon Connect Flows
@@ -48,7 +46,7 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 My philosophy in life is simple: I want to make a difference and impact everything I do. My academic background, professional experiences, and continuous pursuit of knowledge reflect my enthusiasm and determination to excel in my field. I believe the academy experiences will not only enhance my professional growth but also enable me to make a valuable impact in shaping the future through data-driven approaches.
 
 ## 📈 Current Work
-I am currently working on my thesis-internship and expect to graduate early 2025.
+I am currently working as Data Officer Trainee in European Agency and also on my thesis-internship and expect to graduate early 2025.
 
 ## 📫 Contact
 Feel free to reach out to me on 
