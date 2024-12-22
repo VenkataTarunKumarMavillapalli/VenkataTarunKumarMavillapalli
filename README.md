@@ -1,10 +1,10 @@
 ### 👨‍💼 About Me
 
-Hello! I'm Venkata Tarun Kumar Mavillapali, a 24-year-old enthusiast from Hyderabad, Telangana, India. My journey in education started in Hyderabad, where I completed my primary and high school education.
+Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hyderabad, Telangana, India. My journey in education started in Hyderabad, where I completed my primary and high school education.
 
-🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
+🔭 I'm passionate about Agentic AI, Data Engineering, Data Governance and Natural Language Processing.
 
-💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+💭 My personal mission is to build/use AI-based solutions that solve a high-impact business problems for people around the globe and simplify everyday living.
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -15,8 +15,10 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 24-year-old enthusiast from Hydera
 - **International Bachelor's Degree in Computer Science Engineering** - Amity University, Noida
   - Birkbeck, University of London
   - Adelphi University, US
+  - National University of Singapore
  
 ## 📜 Certifications
+- McKinsey Forward Program
 - IBM Machine Learning (Coursera)
 - Google Business Intelligence (Coursera)
 - Google Data Analysis (Coursera)
@@ -29,7 +31,14 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 24-year-old enthusiast from Hydera
 
 
 ## 💼 Professional Experience
-I have around 2 years of experience in the Salesforce platform, where I explored various roles:
+-> Data Officer(Trainee) - European Food Safety Authority
+- Data Management and Analysis Team of Integrated Data Unit.
+
+->Apple Devloper Academy
+
+->Infotainment Intern - Italdesign
+
+-> I have  years of experience in the Salesforce platform, where I explored various roles:
 - Salesforce Admin
 - Chatbot Configuration
 - Amazon Connect Flows
@@ -39,7 +48,7 @@ I have around 2 years of experience in the Salesforce platform, where I explored
 My philosophy in life is simple: I want to make a difference and impact everything I do. My academic background, professional experiences, and continuous pursuit of knowledge reflect my enthusiasm and determination to excel in my field. I believe the academy experiences will not only enhance my professional growth but also enable me to make a valuable impact in shaping the future through data-driven approaches.
 
 ## 📈 Current Work
-I am currently working on my thesis-internship and expect to graduate in September 2024.
+I am currently working on my thesis-internship and expect to graduate early 2025.
 
 ## 📫 Contact
 Feel free to reach out to me on 
