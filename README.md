@@ -4,7 +4,7 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 🔭 I'm passionate about Agentic AI, Data Engineering, Data Governance and Natural Language Processing.
 
-💭 My personal mission is to build/use AI-based solutions that solve a high-impact business problems for people around the globe and simplify everyday living.
+💭 My personal mission is to create and leverage AI-based solutions that address high-impact business problems, generate wealth, and simplify life for people worldwide
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
