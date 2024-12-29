@@ -31,12 +31,11 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 
 ## 💼 Professional Experience
--> Data Officer(Trainee) - European Food Safety Authority(Current)
-- Data Management and Analysis Team of Integrated Data Unit.
+- **Data Officer(Trainee) - European Food Safety Authority(Current)** - Data Management and Analysis Team of Integrated Data Unit.
 
-->Infotainment Intern - Italdesign
+- **Infotainment Intern - Italdesign Giugiaro**
 
--> I have 1.5 years of experience in the Salesforce platform in Neuraflash(Salesforce Partner Company), where I explored various tasks:
+- I have 1.5 years of experience in the Salesforce platform in **Neuraflash(Salesforce Partner Company)**, where I explored various tasks:
 - Salesforce Admin
 - Chatbot Configuration
 - Amazon Connect Flows
