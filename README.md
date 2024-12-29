@@ -36,10 +36,10 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 - **Infotainment Intern - Italdesign Giugiaro**
 
 - I have 1.5 years of experience in the Salesforce platform in **Neuraflash(Salesforce Partner Company)**, where I explored various tasks:
-- Salesforce Admin
-- Chatbot Configuration
-- Amazon Connect Flows
-- Production Support
+   - Salesforce Admin
+   - Chatbot Configuration
+   - Amazon Connect Flows
+   - Production Support
 
 ## 🧘 Philosophy
 My philosophy in life is simple: I want to make a difference and impact everything I do. My academic background, professional experiences, and continuous pursuit of knowledge reflect my enthusiasm and determination to excel in my field. I believe the academy experiences will not only enhance my professional growth but also enable me to make a valuable impact in shaping the future through data-driven approaches.
