@@ -11,11 +11,13 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 ## 🎓 Education
 - **Masters in Data Science** - University of Naples Federico II
+- **Italdesign Giugiaro: Ideneers Academy** - Italy
 - **Apple Developer Academy** - Europe
-- **International Bachelor's Degree in Computer Science Engineering** - Amity University, Noida
+- **International Bachelor's Degree in Computer Science Engineering**
+  - Amity University, Noida
   - Birkbeck, University of London
   - Adelphi University, US
-  - National University of Singapore
+  - National University of Singapore & Amity University Singapore
  
 ## 📜 Certifications
 - McKinsey Forward Program
