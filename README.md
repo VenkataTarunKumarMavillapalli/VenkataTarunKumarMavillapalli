@@ -50,17 +50,13 @@ My philosophy in life is simple: I want to make a difference and impact everythi
 I am currently working as Data Officer Trainee in European Agency and also on my thesis-internship and expect to graduate early 2025.
 
 ## 📫 Contact
-Feel free to reach out to me on 
-
-<a href="https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/">
+Feel free to reach out to me on <a href="https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/">
   <img align="left" alt="Tarun Kumar LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
 <a href="https://x.com/mvtkop760">
   <img align="left" alt="Tarun Kumar Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
 </a>
-<br/>
-
-Thank you for visiting my profile! 🙏
+<br/> Thank you for visiting my profile! 🙏
 ### GitHub Stats
 
 <div align="center">
