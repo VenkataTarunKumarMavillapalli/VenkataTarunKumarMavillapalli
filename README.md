@@ -59,6 +59,7 @@ Feel free to reach out to me on:
   <img align="left" alt="Tarun Kumar Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
 </a>
 <br/> Thank you for visiting my profile! 🙏
+
 ### GitHub Stats
 
 <div align="center">
