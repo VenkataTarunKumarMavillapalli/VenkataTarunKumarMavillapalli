@@ -22,14 +22,7 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 ## 🎓 Education
 
-graph TD
-    A[Masters in Data Science<br>University of Naples Federico II] --> B[Italdesign Giugiaro<br>Ideneers Academy]
-    B --> C[Apple Developer Academy<br>Europe]
-    C --> D[International Bachelor's in CSE]
-    D --> E[Amity University, India]
-    D --> F[Birkbeck, University of London]
-    D --> G[Adelphi University, US]
-    D --> H[NUS & Amity Singapore]
+
 
 
 
