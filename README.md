@@ -4,13 +4,12 @@
 <img align="right" height="280" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
-### 👨‍💼 About Me
+## 👨‍💼 About Me
 
-Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hyderabad, Telangana, India. My journey in education started in Hyderabad, where I completed my primary and high school education.
-
-🔭 I'm passionate about **Agentic AI, Business Intelligence, Data Engineering, Data Governance and Natural Language Processing**.
-
-💭 My personal mission is to create and leverage AI-based solutions that address high-impact business problems, generate wealth, and simplify life for people worldwide
+Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hyderabad, Telangana, India.
+🔭 Data enthusiast with a passion for **Agentic AI, Business Intelligence, Data Engineering, Data Governance, and NLP**. 
+💡 Turning data into actionable insights that drive value and innovation.
+💭 My mission to create and leverage AI-based solutions that address high-impact business problems, generate wealth, and simplify life for people worldwide
 
 
 ## 💼 Professional Experience
@@ -23,6 +22,18 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 ## 🎓 Education
 
+graph TD
+    A[Masters in Data Science<br>University of Naples Federico II] --> B[Italdesign Giugiaro<br>Ideneers Academy]
+    B --> C[Apple Developer Academy<br>Europe]
+    C --> D[International Bachelor's in CSE]
+    D --> E[Amity University, India]
+    D --> F[Birkbeck, University of London]
+    D --> G[Adelphi University, US]
+    D --> H[NUS & Amity Singapore]
+
+
+
+
 - **Masters in Data Science** - University of Naples Federico II
 - **Italdesign Giugiaro: Ideneers Academy** - Italy
 - **Apple Developer Academy** - Europe
@@ -33,6 +44,30 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
   - National University of Singapore & Amity University Singapore
  
 ## 📜 Certifications
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>McKinsey Forward Program</li>
+        <li>IBM Machine Learning</li>
+        <li>Google Business Intelligence</li>
+        <li>Google Data Analysis</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Google Project Management</li>
+        <li>Quality Management Systems (BSI)</li>
+        <li>Risk Management Systems (BSI)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
 - McKinsey Forward Program
 - IBM Machine Learning (Coursera)
 - Google Business Intelligence (Coursera)
@@ -48,7 +83,8 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 My philosophy in life is simple: I want to make a difference and impact everything I do. My academic background, professional experiences, and continuous pursuit of knowledge reflect my enthusiasm and determination to excel in my field. I believe the academy experiences will not only enhance my professional growth but also enable me to make a valuable impact in shaping the future through data-driven approaches.
 
 ## 📈 Current Work
-I am currently working as Data Officer Trainee in European Agency. 
+
+Currently serving as a Data Officer Trainee at a European Agency, where I'm applying my expertise in data management and analysis to support evidence-based decision making.
 
 ## 📫 Contact
 
