@@ -51,6 +51,7 @@ I am currently working as Data Officer Trainee in European Agency and also on my
 
 ## 📫 Contact
 Feel free to reach out to me on:
+
 <a href="https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/">
   <img align="left" alt="Tarun Kumar LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
