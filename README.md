@@ -37,6 +37,10 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 - **Infotainment Intern - Italdesign Giugiaro**
 
+- **Product Management Trainee - Apple Developer Academy Europe**
+
+- **Data Science Research Intern** - A comparative analysis of American and Chinese radical crypto communities on Discord, using semantic network analysis to explore communication structures, motivations, and sub-community dynamics, with a focus on Ethereum, derivatives, and Solana.
+   
 - I have 1.5 years of experience in the Salesforce platform in **Neuraflash(Salesforce Partner Company)**, where I explored various tasks:
    - Salesforce Admin
    - Chatbot Configuration
