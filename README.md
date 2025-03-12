@@ -9,6 +9,22 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
+## 💼 Professional Experience
+
+- **Data Officer(Trainee) - European Food Safety Authority - Data Management and Analysis Team of Integrated Data Unit.**
+
+- **Infotainment Intern - Italdesign Giugiaro**
+
+- **Digital Product Development & Management Student Trainee - Apple Developer Academy Europe**
+
+- **Data Science Research Intern** - A comparative analysis of American and Chinese radical crypto communities on Discord, using semantic network analysis to explore communication structures, motivations, and sub-community dynamics, with a focus on Ethereum, derivatives, and Solana.
+   
+- I have 1.5 years of experience in the Salesforce platform in **Neuraflash(Salesforce Partner Company)**, where I explored various tasks:
+   - Salesforce Admin
+   - Chatbot Configuration
+   - Amazon Connect Flows
+   - Production Support
+
 ## 🎓 Education
 - **Masters in Data Science** - University of Naples Federico II
 - **Italdesign Giugiaro: Ideneers Academy** - Italy
@@ -30,22 +46,6 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 
 ## 📚 Publications
 - **The Machine Predicted Market** - Published in IEEE. This paper discusses Algorithmic Trading.
-
-
-## 💼 Professional Experience
-- **Data Officer(Trainee) - European Food Safety Authority** - Data Management and Analysis Team of Integrated Data Unit.
-
-- **Infotainment Intern - Italdesign Giugiaro**
-
-- **Product Management Trainee - Apple Developer Academy Europe**
-
-- **Data Science Research Intern** - A comparative analysis of American and Chinese radical crypto communities on Discord, using semantic network analysis to explore communication structures, motivations, and sub-community dynamics, with a focus on Ethereum, derivatives, and Solana.
-   
-- I have 1.5 years of experience in the Salesforce platform in **Neuraflash(Salesforce Partner Company)**, where I explored various tasks:
-   - Salesforce Admin
-   - Chatbot Configuration
-   - Amazon Connect Flows
-   - Production Support
 
 ## 🧘 Philosophy
 My philosophy in life is simple: I want to make a difference and impact everything I do. My academic background, professional experiences, and continuous pursuit of knowledge reflect my enthusiasm and determination to excel in my field. I believe the academy experiences will not only enhance my professional growth but also enable me to make a valuable impact in shaping the future through data-driven approaches.
