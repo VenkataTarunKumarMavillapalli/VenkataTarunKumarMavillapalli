@@ -1,4 +1,4 @@
-👋 Hello, I'm Venkata Tarun Kumar Mavillapali
+# 👋 Hello, I'm Venkata Tarun Kumar Mavillapali
 
 <!-- GIF -->
 <img align="right" height="280" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
