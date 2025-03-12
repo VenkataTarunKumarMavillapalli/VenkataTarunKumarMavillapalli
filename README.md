@@ -1,3 +1,8 @@
+
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+
 ### 👨‍💼 About Me
 
 Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hyderabad, Telangana, India. My journey in education started in Hyderabad, where I completed my primary and high school education.
@@ -5,14 +10,6 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 🔭 I'm passionate about Agentic AI, Business Intelligence, Data Engineering, Data Governance and Natural Language Processing.
 
 💭 My personal mission is to create and leverage AI-based solutions that address high-impact business problems, generate wealth, and simplify life for people worldwide
-
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-
-
-
-
 
 
 ## 💼 Professional Experience
