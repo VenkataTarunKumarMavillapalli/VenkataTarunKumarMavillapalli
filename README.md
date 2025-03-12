@@ -9,6 +9,12 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
+
+
+
+
+
+
 ## 💼 Professional Experience
 
 - **Data Officer(Trainee) - European Food Safety Authority - Data Management and Analysis Team of Integrated Data Unit.**
