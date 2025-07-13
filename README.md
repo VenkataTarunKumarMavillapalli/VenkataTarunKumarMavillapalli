@@ -7,7 +7,7 @@
 ## 👨‍💼 About Me
 
 Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hyderabad, Telangana, India. 
-- 🔭 Data enthusiast with a passion for **Agentic AI, Business Intelligence, Data Engineering, Data Governance, and NLP**. 
+- 🔭 Data enthusiast with a passion for **Agentic AI, Business Intelligence, Data Governance, and NLP**. 
 - 💡 Turning data into actionable insights that drive value and innovation.
 - 💭 I create and leverage AI-based solutions that address high-impact business problems, generate wealth, and simplify life for people worldwide
 
@@ -33,6 +33,8 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hydera
  
 ## 📜 Certifications
 
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Certified: Azure AI Fundamentals
 - McKinsey Forward Program
 - IBM Machine Learning (Coursera)
 - Google Business Intelligence (Coursera)
