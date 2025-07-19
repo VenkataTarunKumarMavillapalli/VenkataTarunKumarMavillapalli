@@ -6,7 +6,7 @@
 
 ## 👨‍💼 About Me
 
-Hello! I'm Venkata Tarun Kumar Mavillapali, a 25-year-old enthusiast from Hyderabad, Telangana, India. 
+Hello! I'm Venkata Tarun Kumar Mavillapali, a 26-year-old enthusiast from Hyderabad, Telangana, India. 
 - 🔭 Data enthusiast who is Microsoft Certified Azure AI Engineer Associate, AI Generalist, Absolute Learner, Curiosity-Driven . 
 - 💡 Turning data into actionable insights that drive value and innovation.
 - 💭 I create and leverage AI-based solutions that address high-impact business problems, generate wealth, and simplify life for people worldwide
