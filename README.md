@@ -14,7 +14,8 @@ Hello! I'm Venkata Tarun Kumar Mavillapali, a 26-year-old enthusiast from Hydera
 
 ## 💼 Professional Experience
 
-- **Data Officer(Trainee) - European Food Safety Authority - Data Management and Analysis Team of Integrated Data Unit.**
+- **AI Engineer(Intern) - World Food Program(United Nations Agency) - AI Integration and Investigations - Office of Inspections and Investigations(OIGI).** 
+- **Data Officer(Trainee) - European Food Safety Authority(European Union Agency) - Data Management and Analysis Team of Integrated Data Unit.**
 - **Infotainment Intern - Italdesign Giugiaro**
 - **Digital Product Development & Management Student Trainee - Apple Developer Academy Europe**
 - **Data Science Research Intern** - A comparative analysis of American and Chinese radical crypto communities on Discord, using semantic network analysis to explore communication structures, motivations, and sub-community dynamics, with a focus on Ethereum, derivatives, and Solana.
